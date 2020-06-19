@@ -1,0 +1,1 @@
+cmd /k "swind2 gdrv.sys Kernel.sys"
